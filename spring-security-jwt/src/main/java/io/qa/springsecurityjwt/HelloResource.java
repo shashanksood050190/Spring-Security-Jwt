@@ -12,8 +12,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
-import io.qa.springbootstarter.models.AuthenticationRequest;
-import io.qa.springbootstarter.models.AuthenticationResponse;
+import io.qa.springsecurityjwt.models.AuthenticationRequest;
+import io.qa.springsecurityjwt.models.AuthenticationResponse;
 import io.qa.springsecurityjwt.services.MyUserDetailsService;
 import io.qa.springsecurityjwt.util.JwtUtil;
 

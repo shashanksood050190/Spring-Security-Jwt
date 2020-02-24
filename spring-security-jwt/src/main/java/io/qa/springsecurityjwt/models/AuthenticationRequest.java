@@ -1,4 +1,4 @@
-package io.qa.springbootstarter.models;
+package io.qa.springsecurityjwt.models;
 
 public class AuthenticationRequest {
 	
